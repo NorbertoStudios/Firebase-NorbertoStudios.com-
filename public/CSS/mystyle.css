@@ -1,0 +1,28 @@
+.mySlides{
+    display: none;                                                   
+    } 
+.mySlide1{
+    background-image: url('../Images/img_parallax.jpg'); 
+    background-position: center;
+}
+.mySlide2{
+    background-image: url('../Images/img_parallax2.jpg'); 
+    background-position: center;
+}
+.mySlide3{
+    background-image: url('../Images/img_parallax3.jpg'); 
+    background-position: center;
+}
+.mySlide4{    
+    background-image: url('../Images/p02.jpg'); 
+    background-position: center;
+}
+.bgResume
+{
+    background-image: url('../Images/img_parallax.jpg');
+    background-position: center;
+}
+ul.categories li::before{
+    background: #80cbc4;
+}
+                    
